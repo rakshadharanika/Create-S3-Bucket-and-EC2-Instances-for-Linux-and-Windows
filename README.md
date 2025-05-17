@@ -39,8 +39,8 @@ Connect to the Windows instance using RDP.
 
 
 ## OUTPUT
-### REG NUMBER:212222110015
-### NAME:Kamali E
+### REG NUMBER:212223230238
+### NAME:Vidhiya Lakshmi S
 
  # S3 Bucket
 
